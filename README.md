@@ -1,8 +1,9 @@
 # 🚀 Infraestrutura RHEL e Gerenciamento AWS Cloud - LAB Escola da Nuvem
 
 Este laboratório prático demonstra competências em administração de sistemas **Linux (Red Hat)** e integração com serviços de nuvem da **AWS**. O projeto foca em governança de pacotes, segurança do sistema operacional e automação via CLI.
-![Demonstração do Lab](./diagrama animado.gif)
 
+### 🎬 Arquitetura do Lab (Diagrama Animado)
+![Arquitetura do Lab](./diagrama%20animado.gif)
 
 ---
 
